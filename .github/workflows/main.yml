@@ -70,9 +70,9 @@ jobs:
 
       env:
 
-        NAME: 滑 稽
+        NAME: yc7521
 
-        EMAIL: 2206602594@qq.com
+        EMAIL: 752106133@qq.com
 
       run: |
 
