@@ -36,7 +36,7 @@ jobs:
 
         timezone: Asia/Shanghai
 
-    - uses: actions/checkout@v3.1.0
+    - uses: actions/checkout@v3.2.0
 
     - name: Set up JDK 1.8
 
