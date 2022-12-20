@@ -45,7 +45,7 @@ jobs:
       with:
 
         java-version: 8
-        distribution: microsoft
+        distribution: adopt
 
     - name: Run jar
 
