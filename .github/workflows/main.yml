@@ -5,11 +5,12 @@ name: Office E5
 
 on:
   schedule:
-    - cron: "0 0/6 0/2 * ?"
+    - cron: "0 0/6 0/2 * *"
   release:
     types: [published]
   watch:
     types: [started]
+
 jobs:
   Call-APi:
     runs-on: ubuntu-latest
